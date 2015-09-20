@@ -12,12 +12,10 @@
 
 @interface ViewController ()
 @property (nonatomic, weak) UILabel *label;
-@property (nonatomic, weak) UIButton *button;
 @property NSInteger counter;
 @end
 
 @implementation ViewController
-
 
 - (void)viewDidLoad {
     [super viewDidLoad];
@@ -47,7 +45,7 @@
 
     UIButton *decrementButton = [UIButton new];
     [decrementButton setFrame:CGRectMake(150, 250, 100, 60)];
-    [decrementButton setTitle:NSLocalizedString(@"Decrement", @"Increment")
+    [decrementButton setTitle:NSLocalizedString(@"Decrement", @"Decrement")
                      forState:UIControlStateNormal];
     [decrementButton setTitleColor:[UIColor blueColor]
                           forState:UIControlStateNormal];
