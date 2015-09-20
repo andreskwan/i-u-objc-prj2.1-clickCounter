@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   version = "1.3">
+   <BuildAction>
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForRunning = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "3865C389C17A0DC93FD8B9EB"
+               BuildableName = "objc2.1_ClickCounter.app"
+               BlueprintName = "objc2.1_ClickCounter"
+               ReferencedContainer = "container:objc2.1_ClickCounter.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <LaunchAction
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Debug">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "3865C389C17A0DC93FD8B9EB"
+            BuildableName = "objc2.1_ClickCounter.app"
+            BlueprintName = "objc2.1_ClickCounter"
+            ReferencedContainer = "container:objc2.1_ClickCounter.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </LaunchAction>
+</Scheme>
