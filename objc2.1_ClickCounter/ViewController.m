@@ -11,7 +11,7 @@
 
 
 @interface ViewController ()
-@property (nonatomic, weak) UILabel *label;
+@property (nonatomic, weak) IBOutlet UILabel *label;
 @property NSInteger counter;
 @end
 
@@ -26,7 +26,7 @@
                                              blue:(CGFloat) (125.0/255)
                                             alpha:1.0];
     label.frame = CGRectMake(50,150,200,60);
-    label.text = @"Objective-C Version";
+    label.text = NSLocalizedString(@"Objective-C Version", @"Objective-C Version");
     [self.view addSubview:label];
     self.label = label;
 
