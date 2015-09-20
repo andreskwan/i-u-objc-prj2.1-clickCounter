@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af09f108-42a4-40e9-af45-2be2b090b8db" name="Default" comment="First commit from Appcode">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/objc2.1_ClickCounter/Base.lproj/LaunchScreen.xib" afterPath="$PROJECT_DIR$/objc2.1_ClickCounter/Base.lproj/LaunchScreen.xib" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/objc2.1_ClickCounter/Localizable.strings" afterPath="$PROJECT_DIR$/objc2.1_ClickCounter/Localizable.strings" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/objc2.1_ClickCounter/Base.lproj/Main.storyboard" afterPath="$PROJECT_DIR$/objc2.1_ClickCounter/Base.lproj/Main.storyboard" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/objc2.1_ClickCounter/ViewController.m" afterPath="$PROJECT_DIR$/objc2.1_ClickCounter/ViewController.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/objc2.1_ClickCounter.xcodeproj/xcuserdata/andreskwano.xcuserdatad/xcschemes/objc2.1_ClickCounter.xcscheme" afterPath="$PROJECT_DIR$/objc2.1_ClickCounter.xcodeproj/xcuserdata/andreskwano.xcuserdatad/xcschemes/objc2.1_ClickCounter.xcscheme" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    <list default="true" id="af09f108-42a4-40e9-af45-2be2b090b8db" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="objc2.1_ClickCounter.iws" />
@@ -205,6 +199,13 @@
       <option name="number" value="Default" />
       <updated>1442727014331</updated>
     </task>
+    <task id="LOCAL-00001" summary="Main&#10;- create interface by code&#10;- UIController associate a target VC &#10;Add&#10;- Localizable.strings with &quot;$genstrings -o . *.m&quot;&#10;">
+      <created>1442770590190</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1442770590190</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -245,7 +246,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit from Appcode" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit from Appcode" />
+    <MESSAGE value="Main&#10;- create interface by code&#10;- UIController associate a target VC &#10;Add&#10;- Localizable.strings with &quot;$genstrings -o . *.m&quot;&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Main&#10;- create interface by code&#10;- UIController associate a target VC &#10;Add&#10;- Localizable.strings with &quot;$genstrings -o . *.m&quot;&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
